@@ -1,3 +1,3 @@
 # BHI
 Update here<br>
-!omencat.gif
+!(./omencat.gif)
